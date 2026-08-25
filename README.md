@@ -76,7 +76,7 @@ Employees earning below **₹3K** have a **28.61%** attrition rate, while the lo
 
 ## Dashboard Preview
 
-![Employee Attrition & Workforce Analytics Dashboard](dashboard/final_dashboard.png)
+![Employee Attrition & Workforce Analytics Dashboard](final_dashboard.png)
 
 ## Project Documentation
 
