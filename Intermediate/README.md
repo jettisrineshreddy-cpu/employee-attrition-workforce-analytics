@@ -201,7 +201,7 @@ It was also the stage where I started thinking less about just **“what happene
 ## Files
 
 - `Global_ECommerce_Customer_Revenue_Analytics.pbix` — Final Power BI report
-- `Global_ECommerce_Sales_Datasales.xlsm.xlsx` — Dataset used for the project
+- `Global_ECommerce_Sales_Datasales.xlsx` — Dataset used for the project
 - `intermediate_executive_overview.png` — Executive Overview page
 - `intermediate_customer_segment.png` — Customer & Segment Analysis page
 - `intermediate_product_profitability.png` — Product & Profitability Analysis page
