@@ -407,7 +407,7 @@ employee-attrition-workforce-analytics/
 │   ├── intermediate_executive_overview.png
 │   ├── intermediate_customer_segment.png
 │   ├── intermediate_product_profitability.png
-│   └── global_ecommerce_sales.xlsm.xlsx
+│   └── global_ecommerce_sales.xlsx
 │
 └── Advanced/
     ├── Employee_Attrition_Workforce_Analytics.pbix
