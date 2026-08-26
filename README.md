@@ -407,9 +407,9 @@ employee-attrition-workforce-analytics/
 │   ├── intermediate_executive_overview.png
 │   ├── intermediate_customer_segment.png
 │   ├── intermediate_product_profitability.png
-│   └── Global_ECommerce_Sales_Data.csv
+│   └── global_ecommerce_sales.xlsm.xlsx
 │
 └── Advanced/
-    ├── shadowfox_hr_dashboard.pbix
+    ├── Employee_Attrition_Workforce_Analytics.pbix
     ├── final_dashboard.png
     └── WA_En-UseC_-HR-Employee-Attrition.csv
