@@ -64,7 +64,6 @@ The main focus was not just creating charts, but understanding what the numbers 
 ## Files
 
 - `Beginner_Retail_Sales_Analysis.xlsx` — Excel workbook with the cleaned data, analysis and dashboard
-- `Beginner_Retail_Sales_Documentation.pdf` — detailed project documentation
 - `beginner_dashboard.png` — final dashboard preview
 
 ## Dashboard Preview
